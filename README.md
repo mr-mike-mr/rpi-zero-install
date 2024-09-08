@@ -1,6 +1,6 @@
 # RPI ZERO INSTALL
 
-![image]([https://i.imgur.com/arTjxHl.png](https://i.imgur.com/P3eftiN.png))
+![image](https://i.imgur.com/P3eftiN.png)
 
 ## Content
 
